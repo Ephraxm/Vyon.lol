@@ -1,3 +1,5 @@
+shared.spacing = 0.7
+shared.toggle = false
 local RUN_TOKEN_KEY = "EggBotActiveRunToken"
 local ANTI_AFK_CONN_KEY = "EggBotAntiAfkConnection"
 local CONNECTIONS_KEY = "EggBotConnections"
